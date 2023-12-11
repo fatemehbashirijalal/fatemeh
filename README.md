@@ -1,1 +1,1 @@
-git add README .
+#git add README.index
